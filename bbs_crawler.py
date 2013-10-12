@@ -11,7 +11,7 @@ print p.match('²Ä 1/3 ­¶')
 
 HOST = "ptt2.cc"
 user = "gsrr"
-password = "1128"
+password = ""
 
 tn = telnetlib.Telnet(HOST)
 
